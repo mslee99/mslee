@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test02", "test02.vcxproj", "{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{516CB5D4-6F2B-470C-B5D7-BEB4961194FE}"
+	ProjectSection(SolutionItems) = preProject
+		..\necessary file\CGdiPlusBitmap.h = ..\necessary file\CGdiPlusBitmap.h
+		..\necessary file\GdipButton.cpp = ..\necessary file\GdipButton.cpp
+		..\necessary file\GdipButton.h = ..\necessary file\GdipButton.h
+		..\necessary file\MemDC.h = ..\necessary file\MemDC.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Debug|x64.ActiveCfg = Debug|x64
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Debug|x64.Build.0 = Debug|x64
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Debug|x86.Build.0 = Debug|Win32
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Release|x64.ActiveCfg = Release|x64
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Release|x64.Build.0 = Release|x64
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Release|x86.ActiveCfg = Release|Win32
+		{E92544D1-D05F-42C9-B12D-C8F8C6AB38EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B1DF6D-0797-47B5-9414-F68BD58998B4}
+	EndGlobalSection
+EndGlobal
